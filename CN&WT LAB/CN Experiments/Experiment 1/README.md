@@ -5,6 +5,6 @@ To implement data link layer framing techniques such as
 2.character stuffing
 3.bit stuffing
 ## Procedure
-.
+1.
 ## Output
-[Output](image.png)
+![Output](image.png)
