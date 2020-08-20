@@ -7,4 +7,4 @@ To implement data link layer framing techniques such as
 ## Procedure
 1.
 ## Output
-![Output](image.png)
+![Output](Experiment-1.png)
