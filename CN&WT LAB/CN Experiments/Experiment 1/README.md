@@ -7,4 +7,5 @@ To implement data link layer framing techniques such as
 ## Procedure
 1.
 ## Output
-![Output](Experiment-1.png)
+### Character Count Output
+![Output](Character_Count.png)
