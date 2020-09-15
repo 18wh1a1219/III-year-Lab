@@ -17,19 +17,19 @@ Appending CRC To Data Unit :
 1.The CRC is obtained after the binary division.  
 2.The string of n 0’s appended to the data unit earlier is replaced by the CRC remainder.  
 
-Transmission To Receiver :
+Transmission To Receiver :  
 The newly formed code word (Original data + CRC) is transmitted to the receiver.  
 
-Checking at Receiver Side : 
+Checking at Receiver Side :   
 1.The transmitted code word is received.   
 2.The received code word is divided with the same CRC generator.  
 3.On division, the remainder so obtained is checked.  
 
-If the remainder is zero,
-1.Receiver assumes that no error occurred in the data during the transmission.  
+If the remainder is zero,  
+1.Receiver assumes that no error occurred in the data during the transmission.   
 2.Receiver accepts the data.  
 
-If the remainder is non-zero,
+If the remainder is non-zero,  
 1.Receiver assumes that some error occurred in the data during the transmission.  
 2.Receiver rejects the data and asks the sender for retransmission.  
 
