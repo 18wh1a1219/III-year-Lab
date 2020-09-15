@@ -3,7 +3,7 @@
 ## Aim of the Experiment
 To write a program to compute CRC code for the polynomials CRC-12,CRC-16 and CRC CCIP.
 
-### step by step procedure of experiment
+### Procedure :
 Calculation of CRC at the Sender Side : 
 
 1.A string of n 0’s is appended to the data unit to be transmitted.
@@ -12,15 +12,15 @@ Calculation of CRC at the Sender Side :
 4.After division, the remainder so obtained is called as CRC.
 5.It may be noted that CRC also consists of n bits.
 
-Appending CRC To Data Unit-
+Appending CRC To Data Unit :
 
 1.The CRC is obtained after the binary division.
 2.The string of n 0’s appended to the data unit earlier is replaced by the CRC remainder.
 
-Transmission To Receiver-
+Transmission To Receiver :
 The newly formed code word (Original data + CRC) is transmitted to the receiver.
 
-Checking at Receiver Side-
+Checking at Receiver Side : 
 1.The transmitted code word is received.
 2.The received code word is divided with the same CRC generator.
 3.On division, the remainder so obtained is checked.
@@ -35,4 +35,4 @@ If the remainder is non-zero,
 
 ### Output
 
-![output](Crc.png)
+![output](CRC.png)
