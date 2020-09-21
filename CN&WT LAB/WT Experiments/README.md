@@ -11,4 +11,4 @@
 
 ### Register Page :
 
-![output](RegsiterPage.png)
+![output](RegisterPage.png)
