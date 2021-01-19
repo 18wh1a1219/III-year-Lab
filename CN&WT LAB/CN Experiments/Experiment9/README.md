@@ -13,4 +13,4 @@ Step 7: Finally you need to print the original message.
 Step 8: Stop.  
 
 ## Output:
-![Output](Buffers_Sort.png)
+![Output](Buffers_Sorting.png)
