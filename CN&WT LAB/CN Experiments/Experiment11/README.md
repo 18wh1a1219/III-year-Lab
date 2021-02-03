@@ -12,3 +12,7 @@ How to run a Nmap scan
 8. Thats how Nmap scan runs.  
 
 ## Output :
+Ping Scan
+![Output](PingScan.png)
+Intense Scan
+![Output](IntenseScan.png)
