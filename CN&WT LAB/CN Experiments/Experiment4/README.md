@@ -23,4 +23,4 @@ distance[v]=min(distance[v],
 distance[w]+cost[w][v])  
   
 ## Output :
-![Output](dijkstra.png)
+![Output](Dijkstra.png)
