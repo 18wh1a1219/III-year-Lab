@@ -17,7 +17,7 @@ in Wireshark.
 7.Click on statistics and choose Capture file statistics,packet lengths,I/O graphs.  
 
 ## Output:
-![Output](Cpaturedtraffic.png)
+![Output](CapturedTraffic.png)
 ![Output](FileProperties.png)
 ![Output](IOGraphs.png)
 ![Output](PacketLengths.png)
